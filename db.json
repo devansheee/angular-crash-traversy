@@ -23,6 +23,12 @@
       "text": "Food Shopping 2",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "test",
+      "day": "7th monday",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
